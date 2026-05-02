@@ -1,0 +1,23 @@
+industry: Financial Services
+audience: CIO, CDO, Digital, Operations leaders
+tone: Executive, pragmatic, non-hype
+length: 5-7 items
+
+structure:
+  - Executive Takeaways
+  - Key Developments
+  - Why It Matters
+  - What Leaders Should Do
+  - What We’re Watching
+
+avoid:
+  - consumer AI hype
+  - feature-level noise without business impact 
+
+
+footer: >
+  This newsletter is curated for enterprise technology leaders and focuses on
+  material developments with real operational, regulatory, or financial impact.
+  It is intended to inform executive discussion—not to promote tools, vendors,
+  or speculative innovation.
+``

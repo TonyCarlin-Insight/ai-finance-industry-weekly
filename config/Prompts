@@ -1,0 +1,22 @@
+PROMPT: Research the most important AI developments from the past 7 days
+relevant to the industry in /config/newsletter.yaml.
+
+Focus on:
+
+Enterprise adoption
+Platform announcements
+Regulatory or governance changes
+Real customer usage
+Summarize findings with sources
+and save the output to /research
+as Weekly-Research-YYYY-MM-DD.md
+
+
+
+PROMPT: Using the latest file in /research
+and the most recent issue in /issues,
+draft this week’s AI newsletter.
+
+Follow all configuration rules.
+Do not repeat topics unless materially changed.
+Save the result to /issues.
